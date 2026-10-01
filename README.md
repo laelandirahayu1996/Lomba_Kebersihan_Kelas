@@ -1,4 +1,3 @@
-# Lomba-Kebersihan-Kelas
 Penilaian Kebersihan Kelas
 <html lang="id">
 <head>
